@@ -1,5 +1,6 @@
 #Curso de Git e Github
 
-Arquivo para aplicação de conhecimentos adquiridos no curso
+Este é um arquivo para aplicação de conhecimentos adquiridos no curso
 
 Veja meu portfolio em [tatishinoda.com](http://tatishinoda.com)
+
